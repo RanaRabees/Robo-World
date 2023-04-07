@@ -1,0 +1,16 @@
+{
+  "__entry_css_mods__": {
+    "C:\\Users\\amirh\\Desktop\\roboworld\\src\\app\\page": [
+      "C:\\Users\\amirh\\Desktop\\roboworld\\src\\app\\globals.css"
+    ],
+    "C:\\Users\\amirh\\Desktop\\roboworld\\src\\app\\services\\page": [
+      "C:\\Users\\amirh\\Desktop\\roboworld\\src\\app\\globals.css"
+    ],
+    "C:\\Users\\amirh\\Desktop\\roboworld\\src\\app\\contact\\page": [
+      "C:\\Users\\amirh\\Desktop\\roboworld\\src\\app\\globals.css"
+    ]
+  },
+  "C:\\Users\\amirh\\Desktop\\roboworld\\src\\app\\layout.tsx": [
+    "C:\\Users\\amirh\\Desktop\\roboworld\\src\\app\\globals.css"
+  ]
+}
